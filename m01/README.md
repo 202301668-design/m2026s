@@ -2,6 +2,7 @@
 ## Topics
 - Command Window as a Good Calculator
   - version
+  - bench
   - M = magic(4), max, sum, M(7)
   - isprime, primes
   - pi and trigonometric functions
@@ -24,8 +25,8 @@
   - Single indexing: A(3)
 
 ## Live Script
-- basic_math_operations.mlx
-- storyOnYears.mlx
+- basic_math_operations.m
+- storyOnYears.m
 
 ## Quiz
 - Quiz01.pdf printed handout, without the help of MATLAB
