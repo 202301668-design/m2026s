@@ -25,7 +25,7 @@
   - Single indexing: A(3)
 
 ## Live Script
-- basic_math_operations.m
+- basic_math_operations.m
 - storyOnYears.m
 
 ## Quiz
